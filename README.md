@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Adly Raissa👋
+
+🎮 Gamer first, developer second.
+
+I'm a student from Indonesia who enjoys spending time playing games, exploring technology, and building things when inspiration strikes.
+
+This GitHub is where I document my projects, learning journey, and daily notes. It's not about being the best developer—it's about learning something new, staying consistent, and having fun along the way.
 
 <!--
 **Dlyraissa/Dlyraissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
